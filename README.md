@@ -9,6 +9,10 @@ A simple and responsive GUI Calculator built using **HTML**, **CSS**, and **Java
 - Responsive design for desktop and mobile
 - Easy-to-use and interactive layout
 
+## Screenshots
+
+![Calculator Screenshot](/screenshot.png)
+
 ## Live Demo
 
 You don’t need to clone or download the project—just visit the live version below:
